@@ -1,2 +1,2 @@
-# new-repo
+# new-Repo
 new repo
